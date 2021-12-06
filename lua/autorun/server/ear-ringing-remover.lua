@@ -1,5 +1,5 @@
 -- Convar
-local disableTinnitus = CreateConVar( "earringing_disable", 1, { FCVAR_ARCHIVE }, "Should the ear ringing tinnitus effect be disabled?.", 0 ):GetBool()
+local disableTinnitus = CreateConVar( "earringing_disable", 1, { FCVAR_ARCHIVE }, "Should the ear ringing/tinnitus effect be disabled?.", 0 ):GetBool()
 cvars.AddChangeCallback( "earringing_disable", function( _, _, val )
     disableTinnitus = tobool( val )
 end)
