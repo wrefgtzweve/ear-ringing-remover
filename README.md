@@ -1,4 +1,4 @@
-# easy-rocket-jumps
+# ear-ringing-remover
 
 A tiny addon that simply disables the earringing / tinnitus effect that blast damage causes.
 
