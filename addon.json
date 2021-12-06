@@ -1,0 +1,13 @@
+{
+    "title": "Ear ringing / tinnitus remover.",
+    "description": "Incredibly small script to remove the annoying beep noise when you took explosive damage.",
+    "type": "effects",
+    "tags": [
+        "fun",
+        "realism"
+    ],
+    "ignore": [
+        ".git/*",
+        "README.md"
+    ]
+}
